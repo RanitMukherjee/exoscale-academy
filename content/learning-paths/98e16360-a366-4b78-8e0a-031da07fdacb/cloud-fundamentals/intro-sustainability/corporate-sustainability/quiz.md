@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "corporate-sustainability"
-passing_percentage: 75
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "Which of the following are reasons why businesses might prioritize corporate sustainability?"

@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "csrd-and-providers"
-passing_percentage: 75
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "What does CSRD require from cloud computing providers in terms of reporting?"

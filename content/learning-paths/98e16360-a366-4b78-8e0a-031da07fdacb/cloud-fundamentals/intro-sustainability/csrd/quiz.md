@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "csrd"
-passing_percentage: 75
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "Which of the following is true about the Corporate Sustainability Reporting Directive (CSRD)?"

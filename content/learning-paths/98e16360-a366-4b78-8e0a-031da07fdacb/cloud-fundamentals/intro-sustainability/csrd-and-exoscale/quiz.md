@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "csrd-and-exoscale"
-passing_percentage: 75
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "What are the objectives of using CloudAssess in cloud services?"

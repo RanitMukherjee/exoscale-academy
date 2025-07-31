@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "file-storage"
-passing_percentage: 75
+passing_percentage: 70
 questions:
     - id: "q1"
       text: "What types of cloud file storage delivery methods are available?"
