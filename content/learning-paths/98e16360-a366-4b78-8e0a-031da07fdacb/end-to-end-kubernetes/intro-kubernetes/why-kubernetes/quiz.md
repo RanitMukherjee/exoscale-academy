@@ -1,13 +1,13 @@
 ---
 title: "Knowledge Check"
 id: "why-kubernetes"
-passing_percentage: 70
+passing_percentage: 75
 questions:
   - id: "q1"
     text: "If you start using containers, what will happen?"
     type: "mcq"
     multiple_answers: true
-    marks: 1
+    marks: 2
     options:
       - id: "a"
         text: "everything stays the same, except using containers"
@@ -21,7 +21,7 @@ questions:
     text: "What happens if you run services at scale in containers without Kubernetes?"
     type: "mcq"
     multiple_answers: true
-    marks: 1
+    marks: 2
     options:
       - id: "a"
         text: "human cost of running services increases"
@@ -40,7 +40,6 @@ questions:
       - id: "g"
         text: "resource usage becomes more and more expensive"
         is_correct: true
-
 layout: "quiz"
 type: "quiz"
 ---
