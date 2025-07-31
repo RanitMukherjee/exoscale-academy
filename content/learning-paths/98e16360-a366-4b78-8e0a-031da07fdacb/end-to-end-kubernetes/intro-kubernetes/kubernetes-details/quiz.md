@@ -1,3 +1,4 @@
+---
 title: "Knowledge Check"
 id: "kubernetes-details"
 passing_percentage: 75
