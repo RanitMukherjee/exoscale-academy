@@ -1,5 +1,5 @@
 ---
-type: "module"
+type: "page"
 id: "SKS Welcome"
 description: ""
 title: "SKS Welcome"
