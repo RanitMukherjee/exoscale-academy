@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Check - Why Managed Kubernetes"
+title: "Knowledge Check"
 id: "why-managed-kubernetes"
 passing_percentage: 75
 questions:
