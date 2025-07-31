@@ -38,7 +38,6 @@ questions:
         is_correct: true
       - id: "d"
         text: "no way to define resource boundaries for applications"
-
 layout: "quiz"
 type: "quiz"
 ---
