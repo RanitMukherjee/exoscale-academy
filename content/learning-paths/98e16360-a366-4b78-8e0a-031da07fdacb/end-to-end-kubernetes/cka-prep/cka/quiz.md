@@ -1,6 +1,5 @@
 ---
 title: "Introduction to Kubernetes (Quiz)"
-id: "quiz-101-k8s"
 passing_percentage: 70
 questions:
   - id: "q1"

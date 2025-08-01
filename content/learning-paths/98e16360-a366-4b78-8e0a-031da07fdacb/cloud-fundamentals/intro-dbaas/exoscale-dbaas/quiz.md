@@ -1,6 +1,5 @@
 ---
 title: "Knowledge Check"
-id: "quiz-exoscale-dbaas"
 passing_percentage: 70
 questions:
   - id: "q1"

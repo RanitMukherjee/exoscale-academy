@@ -1,6 +1,5 @@
 ---
 title: "Knowledge Check (Quiz)"
-id: "quiz-challenge-yourself"
 passing_percentage: 70
 questions:
   - id: "q1"

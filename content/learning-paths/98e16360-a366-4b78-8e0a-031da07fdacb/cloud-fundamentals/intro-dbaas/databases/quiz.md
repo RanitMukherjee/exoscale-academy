@@ -1,6 +1,5 @@
 ---
 title: "Knowledge Check"
-id: "quiz-databases"
 passing_percentage: 70
 questions:
   - id: "q1"

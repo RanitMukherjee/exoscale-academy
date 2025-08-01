@@ -1,6 +1,5 @@
 ---
 title: "Overview - Knowledge Check (Quiz)"
-id: "quiz-overview"
 passing_percentage: 70
 questions:
   - id: "q1"

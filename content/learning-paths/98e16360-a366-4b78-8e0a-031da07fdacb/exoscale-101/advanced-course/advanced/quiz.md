@@ -1,6 +1,5 @@
 ---
 title: "Advanced - Knowledge Check (Quiz)"
-id: "quiz-advanced"
 passing_percentage: 70
 questions:
   - id: "q1"
