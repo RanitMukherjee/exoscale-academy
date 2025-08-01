@@ -91,7 +91,6 @@ questions:
   - id: "q5"
     text: "The Security Referential Is:"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

@@ -5,7 +5,6 @@ questions:
   - id: "q1"
     text: "Which of the following is a cloud computing service model that provides virtualized computing resources over the internet?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

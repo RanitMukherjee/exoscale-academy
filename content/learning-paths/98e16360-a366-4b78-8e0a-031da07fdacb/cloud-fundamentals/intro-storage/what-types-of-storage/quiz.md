@@ -6,7 +6,6 @@ questions:
     - id: "q1"
       text: "Which storage type is specifically designed for high-performance applications that require low-level access to storage?"
       type: "mcq"
-      multiple_answers: true
       marks: 2
       options:
         - id: "a"
@@ -19,7 +18,6 @@ questions:
     - id: "q2"
       text: "Which of these storage types manage data in a flat structure with no directories or folders?"
       type: "mcq"
-      multiple_answers: true
       marks: 2
       options:
         - id: "a"

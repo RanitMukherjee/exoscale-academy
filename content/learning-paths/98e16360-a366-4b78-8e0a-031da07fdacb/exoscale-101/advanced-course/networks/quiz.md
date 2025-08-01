@@ -5,7 +5,6 @@ questions:
   - id: "q1"
     text: "What is a load balancer in Exoscale?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
@@ -21,7 +20,6 @@ questions:
   - id: "q2"
     text: "What is true about managed Elastic IPs?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
@@ -35,7 +33,6 @@ questions:
   - id: "q3"
     text: "Health checks ..."
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

@@ -6,7 +6,6 @@ questions:
   - id: "q1"
     text: "If you start using containers, what will happen?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

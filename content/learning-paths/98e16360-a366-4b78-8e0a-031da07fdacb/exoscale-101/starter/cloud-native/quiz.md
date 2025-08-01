@@ -5,7 +5,6 @@ questions:
   - id: "q1"
     text: "What does cloud native mean in the context of Exoscale?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
@@ -19,7 +18,6 @@ questions:
   - id: "q2"
     text: "What is a container?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

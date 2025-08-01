@@ -35,7 +35,6 @@ questions:
   - id: "q2"
     text: "What does SOS stand for in Exoscale's context?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"

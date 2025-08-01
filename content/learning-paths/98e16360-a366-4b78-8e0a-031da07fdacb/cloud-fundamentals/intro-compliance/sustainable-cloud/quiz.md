@@ -50,7 +50,6 @@ questions:
   - id: "q3"
     text: "What do we do with old server hardware?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
@@ -84,7 +83,6 @@ questions:
   - id: "q5"
     text: "How do we tackle energy efficiency in our data center design?"
     type: "mcq"
-    multiple_answers: true
     marks: 2
     options:
       - id: "a"
