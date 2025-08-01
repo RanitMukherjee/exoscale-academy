@@ -6,6 +6,6 @@ description: "Build your Exoscale expertise from the ground up. Start with core 
 banner: "images/exoscale-icon.svg"
 weight: 1
 tags: [exoscale, cloud, infrastructure]
-level: "beginner"
+level: "intermediate"
 categories: "platform"
 ---
