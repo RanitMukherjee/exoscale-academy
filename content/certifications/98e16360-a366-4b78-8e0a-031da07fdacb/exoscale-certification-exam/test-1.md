@@ -1,6 +1,5 @@
 ---
-title: "Final Exam"
-weight: 5
+weight: 1
 passing_percentage: 70
 questions:
   - id: "q1"

@@ -1,5 +1,4 @@
 ---
-title: "Optional Exam 5"
 weight: 4
 passing_percentage: 70
 is_optional: true

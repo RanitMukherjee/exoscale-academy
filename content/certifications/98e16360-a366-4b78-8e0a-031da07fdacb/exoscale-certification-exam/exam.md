@@ -1,6 +1,5 @@
 ---
-title: "Exam 1"
-weight: 1
+weight: 5
 passing_percentage: 70
 questions:
   - id: "q1"
