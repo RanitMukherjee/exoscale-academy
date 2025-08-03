@@ -1,7 +1,7 @@
 id: bc14c3b6-82cd-4ace-800f-314fc8fe6ec6
 name: exoscale-storage-image1
 schemaVersion: designs.meshery.io/v1beta1
-version: 0.0.126
+version: 0.0.129
 metadata:
   resolvedAliases: {}
 components:
@@ -1448,7 +1448,7 @@ components:
   - id: 082718fb-2b52-4eeb-9122-e87d99c39b9e
     schemaVersion: components.meshery.io/v1beta1
     version: v1.0.0
-    displayName: USER
+    displayName: User
     description: This icon can be used to represent user profiles or identity access.
     format: JSON
     model:
@@ -1530,7 +1530,7 @@ components:
       published: false
     configuration:
       metadata:
-        name: USER
+        name: User
     component:
       version: ""
       kind: user-icon
